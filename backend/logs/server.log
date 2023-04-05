@@ -1,0 +1,32 @@
+info: May-10-2022 15:59:53: 	Server started on port 5001
+info: May-10-2022 16:00:44: 	POST /register
+info: May-10-2022 16:00:44: 	request: {"FirstName":"Shoha","LastName":"Duvvuri","Email":"shobha@abc.com","Password":"password","DOB":"2022-05-09","address":"San Jose, CA","Mobile":"1234567","types":"owner"}
+info: May-10-2022 16:00:44: 	Registered succesfully{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+info: May-10-2022 16:00:49: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-10-2022 21:55:58: 	Server started on port 5001
+info: May-10-2022 21:56:04: 	POST /register
+info: May-10-2022 21:56:04: 	request: {"FirstName":"wcfwe","LastName":"ewv","Email":"shossbha@abc.com","Password":"password","DOB":"2022-05-03","address":"cv","Mobile":"245","types":"owner"}
+info: May-10-2022 21:56:04: 	Registered succesfully{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+info: May-10-2022 23:12:37: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:12:57: 	POST /register
+info: May-11-2022 17:12:57: 	request: {"FirstName":"abc","LastName":"def","Email":"abc2abc@def","Password":"password","DOB":"2022-05-02","address":"CA","Mobile":"12345"}
+info: May-11-2022 17:12:57: 	Registered succesfully{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+info: May-11-2022 17:14:32: 	POST /register
+info: May-11-2022 17:14:32: 	request: {"FirstName":"xyz","LastName":"xyz","Email":"xyz@xyz.com","Password":"password","DOB":"2022-05-04","address":"ca","Mobile":"56788"}
+info: May-11-2022 17:14:32: 	Registered succesfully{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+info: May-11-2022 17:20:26: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:20:42: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:21:17: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:25:54: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:25:55: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:25:56: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:26:15: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:27:15: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:28:00: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:28:38: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:38:06: 	{"Email":"shobha@abc.com","Password":"password"}
+info: May-11-2022 17:38:59: 	POST /register
+info: May-11-2022 17:38:59: 	request: {"FirstName":"madhu","LastName":"madhu","Email":"madhu@abc.com","Password":"password","DOB":"2022-05-01","address":"ca","Mobile":"12345"}
+info: May-11-2022 17:38:59: 	Registered succesfully{"fieldCount":0,"affectedRows":1,"insertId":0,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}
+info: May-11-2022 17:39:15: 	{"Email":"madhu@abc.com","Password":"password"}
+info: May-11-2022 17:43:00: 	{"Email":"shobha@abc.com","Password":"password"}

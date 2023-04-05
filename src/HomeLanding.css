@@ -1,0 +1,56 @@
+
+.subtitle {
+    font-size: 20px;
+    padding-top: 20px;
+    color:white;
+  }
+  .intro-text {
+    width: 100%;
+    text-align: center;
+  }
+  .main {
+    min-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-image: url("https://cdn.dribbble.com/users/2058540/screenshots/8225403/media/bc617eec455a72c77feab587e09daa96.gif");
+    background-position: center;
+    background-size: cover;
+  }
+  .buttonContainer {
+    /* width: inherit; */
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .landingButton {
+    
+    width: 200px;
+    height: 55px;
+  }
+  
+  .landingButton1 {
+    
+    width: 160px;
+    height: 55px;
+    margin-left: 20px;
+  }
+
+  .center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+  }
+  
+  
+  @media only screen and (max-width: 768px) {
+    .title {
+      font-size: 60px;
+    }
+    .landingbutton {
+      width: 150px;
+      height: 50px;
+    }
+  }
+  

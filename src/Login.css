@@ -1,0 +1,69 @@
+.form-group{
+    display: table;
+   width: 100%;
+   
+  
+}
+.f{
+   margin-left: 10%;
+   margin-right: 20%;
+     margin-top: 10%;
+   margin-bottom: 20%;
+   text-align: center;
+}
+
+/* .input {
+    border: solid;
+} */
+
+.buttonContainer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.buttonContainer1 {
+  display: flex;
+  justify-content: space-evenly;
+  position: absolute;
+}
+
+.fgtpwd{
+  border: none;
+  background: none;
+  color: cornflowerblue;
+}
+
+.Login{
+  min-height: 93vh;
+  display: flex;
+  align-items: center;
+  background-image: url("https://cutewallpaper.org/21/gif-background-html/15-CSS-Animated-Backgrounds-Pintire.gif");
+
+  background-position: center;
+  background-size: cover;
+}
+.form-control{
+    /* width: auto;  */
+    height: 40px;
+
+}
+.C{
+    width: 300px;
+    
+
+}
+
+.forgot-password{
+    margin-left: 43%;
+    color:cornflowerblue
+    
+}
+
+.center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+  }
+
